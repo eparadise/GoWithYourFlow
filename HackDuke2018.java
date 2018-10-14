@@ -1,5 +1,6 @@
 /*This code was created by Eliza Paradise in collaboration with Katelyn Chang, Ana Martinez, and Jonathan Pittman as part 
-of a submission to the HackDuke2018: Code for Good Health Track. This algorithm works to track and predict periods. */
+of a submission to the HackDuke2018: Code for Good Health Track. This algorithm works to track and predict periods. The code in
+the main utilizes real data to simulate the algorithm. */
 
 import java.util.ArrayList;
 import java.util.TreeMap;
