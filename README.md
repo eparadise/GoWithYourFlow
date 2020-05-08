@@ -1,1 +1,2 @@
-# personal-projects
+# GoWithYourFlow
+This project was a submission to the health track of HackDuke 2018: Code for Good. It is a period resource for female-identifying people, including a period tracker, a map of free period products in the area, a platform to chat with other community members and gain support, a political tab which includes relevant local issues and lists local politicians, and a tab which supports female-identifying people who get their period for the first time.
